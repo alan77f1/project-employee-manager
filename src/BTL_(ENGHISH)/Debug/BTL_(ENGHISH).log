@@ -1,0 +1,38 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (BTL_(ENGHISH).vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CongTy.cpp
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\CongTy.cpp(177,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\CongTy.cpp(213,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\CongTy.cpp(224,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\CongTy.cpp(266,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\CongTy.cpp(308,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\CongTy.cpp(311,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\CongTy.cpp(327,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\CongTy.cpp(330,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\CongTy.cpp(347,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\CongTy.cpp(350,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\CongTy.cpp(367,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\CongTy.cpp(370,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\CongTy.cpp(388,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\CongTy.cpp(390,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\CongTy.cpp(407,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\CongTy.cpp(409,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\CongTy.cpp(426,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\CongTy.cpp(428,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\CongTy.cpp(445,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\CongTy.cpp(447,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\CongTy.cpp(468,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\CongTy.cpp(516,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\CongTy.cpp(563,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\CongTy.cpp(611,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\CongTy.cpp(660,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\CongTy.cpp(685,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\CongTy.cpp(709,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\CongTy.cpp(729,23): warning C4018: '<': signed/unsigned mismatch
+  Ngay.cpp
+  NhanVien.cpp
+C:\Users\buiva\source\repos\BTL_(ENGHISH)\BTL_(ENGHISH)\NhanVien.cpp(110,23): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  DoHoa.cpp
+  Main.cpp
+  Menu.cpp
+  Generating Code...
+  BTL_(ENGHISH).vcxproj -> C:\Users\buiva\source\repos\BTL_(ENGHISH)\Debug\BAI_TAP_LON.exe
